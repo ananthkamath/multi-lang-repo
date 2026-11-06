@@ -1,0 +1,15 @@
+# Python
+python-app/__pycache__/
+python-app/*.pyc
+python-app/.venv/
+
+# Node
+javascript-app/node_modules/
+
+# Java
+java-app/target/
+
+# Go
+go-app/bin/
+
+.DS_Store
